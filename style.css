@@ -1,0 +1,12 @@
+body{
+    font-family: sans-serif;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1em;
+}
+input{
+    display: block;
+}
